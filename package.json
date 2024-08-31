@@ -1,0 +1,15 @@
+{
+  "name": "my_profile_react",
+  "version": "1.0.0",
+  "description": "my profile using react",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/djdevjams"
+  },
+  "author": "Alex Brown",
+  "license": "MIT"
+}
